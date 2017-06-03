@@ -1,0 +1,80 @@
+/*===================================== Sidebar Search Bar =====================================*/
+#hbz-searchbox {
+        background: #eee;
+        border-radius:3px;box-shadow:0 2px 3px 4px #eee;
+width: 100%;height:37px!important;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+     
+    }
+   
+    #hbz-input,
+    .hbz-submit {
+        font-family: 'Cabin', helvetica, arial, sans-serif !important;
+        margin: 0px;
+        padding: 0px;
+    }
+   
+    #hbz-input {
+        background:#fff;
+        border: 0.5px solid #87ceeb;
+        color: #888;
+        display: block;
+        float: left;
+        font-size: 13px;
+        height: 30px;
+        padding-left: 4%;
+        padding-right: 4%;
+        width: 60.2%;
+        border-radius: 4px;
+    }
+   
+    #hbz-input:focus {
+        animation: glow 800ms ease-out infinite alternate;
+        border-color: #393;
+        color: #000;
+        outline: none;
+    }
+   
+    .hbz-submit {
+        background: linear-gradient(#333, #222);
+        box-sizing: content-box;
+        border: 1px solid #444;
+        border-left-color: #000;
+        color: #fff;
+        display: block;
+        font-size: 12px;
+        height: 30px;
+        line-height: 30px;
+        position: relative;
+        width: 30%;
+        cursor: pointer;
+        border-radius: 0px 3px 3px 0px;
+    }
+   
+    .hbz-submit:hover,
+    .hbz-submit:focus {
+        background: linear-gradient(#393939, #292929);
+    }
+   
+    .hbz-submit:hover,
+    .hbz-submit:focus {
+        color: #5f5;
+        outline: none;
+    }
+   
+    .hbz-submit:active {
+        top: 1px;
+    }
+   
+    @keyframes glow {
+        0% {
+            border-color: #393;
+            box-shadow: 0 2px #000, 0px 0px 5px #3DAD3D, inset 0px 0px 5px #1F391F;
+        }
+        100% {
+            border-color: #6f6;
+            box-shadow: 0 2px #000, 0px 0px 8px #6bab6b, inset 0px 0px 10px #1F391F;}
