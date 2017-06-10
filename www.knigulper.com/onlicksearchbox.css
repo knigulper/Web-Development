@@ -1,0 +1,25 @@
+
+/*======= CSS Onlickc Search Bar By knigulper.com =======*/
+h2.ldemo{display:block;border-bottom:1px solid #d9e0e2;font-weight:400;text-align:center;padding:10px}
+h2.signup{background:#00aa9f;border-bottom:1px solid #008d84;font-weight:400;text-align:center;padding:10px;color:#fff;font-size:18px}
+.close{position: absolute; top: 6px; right: 6px; width: 30px; height: 30px; line-height: 30px; text-align: center; font-size: 16px; background: #00b140; border-radius: 100px; font-weight: 400;}
+.close:hover { text-decoration:none; }
+.close:hover { color:#555; }
+.newsletter-sm {background:#fff;margin: 0; padding: 20px;}
+.newsletter-sm h3 {color:#f1ae28;font-size: 25px; font-weight:800; text-align:center; margin-bottom: 10px;}
+.newsletter-sm p {font-size: 14px; color:#555; line-height: 20px;margin:0}
+.newsletter-sm .newsletter-input-sm {border: 1px solid #f1ae28; padding: 5px 10px; width:290px; float:left; height:37px; color:#555;}
+.newsletter-sm .newsletter-sm-bot{padding: 20px; margin: 0 -20px -20px; height: 80px; position: relative;}
+.newsletter-sm .newsletter-button-sm {float: right; height:49px; display: inline-block; font-size: 15px; padding: 5px 25px; position: relative; color: #fff; text-align: center; background: #f1ae28; font-family: 'Ubuntu', sans-serif; border:none; cursor: pointer; font-weight: 600;}
+.FollowByEmail .follow-by-email-inner .follow-by-email-address {height: 40px!important; border: none; padding: 5px; width: 96%; margin-bottom: 5px; background: #EAE9E9;font-family:'Ubuntu', sans-serif;}
+.FollowByEmail .follow-by-email-inner .follow-by-email-submit { height: 40px!important; width: 100%; margin-left: 0; background: #f1ae28;font-size: 16px; font-weight:600; text-transform: uppercase; border-radius: 0;font-family:'Ubuntu', sans-serif;}
+#search-bar{display:block;position:relative;width:100%;}
+input#sq{background:#fff;color:#777;font:400 14px/12px 'Ubuntu', sans-serif;margin:0;padding:11px 20px;width:86%;height:27px;outline:0;border: 2px solid #E4E4E4;box-shadow:initial;line-height:normal;transition:all .1s}
+input#sq:focus{color:#333;border-radius:4px;}
+#search-form{position:relative;margin:auto;text-align:center}
+#searchsubmit{background-color:#f1ae28;border:0;color:#fff;display:inline-block;position:absolute;right:0;top:0;padding:15px 30px;transition:all .2s}
+#searchsubmit:hover,#searchsubmit:focus,#searchsubmit:active{background-color:#f6806e;color:#fff;cursor:pointer;outline:0;}
+.search-form-icon{color:rgba(255,255,255,1);top:10px;right:22px;position:absolute}
+input#sq::-webkit-input-placeholder,input#sq:-ms-input-placeholder{color:#777;}
+input#sq::-moz-placeholder,input#sq:-moz-placeholder{color:#777;opacity:1;}
+[type="search"] {-moz-appearance:textfield;-webkit-appearance:textfield;appearance:textfield;}
