@@ -1,0 +1,54 @@
+/*
+-----------------------------------------------
+Sign UP Button By knigulper.com
+----------------------------------------------- */
+.newsletter-sm {background:#fff;margin: 0;padding: 50px; width: 500px;}
+.newsletter-sm h3 {color: #00B140; font-size: 30px; font-weight: 800; text-align: center; margin-bottom: 10px; font-family: ubuntu; letter-spacing: -1px;}
+.newsletter-sm p {font-size: 14px; color:#555; line-height: 20px;margin:0}
+.newsletter-sm .newsletter-input-sm {border: 1px solid #ddd; font-size: 14px; width: 70%; background-color: #fff; text-align: center; color: #999; padding: 19px; border-radius: 3px 0px 0px 3px; font-family: ubuntu;}
+.newsletter-sm .newsletter-sm-bot{padding: 40px; position: relative;}
+.newsletter-sm .newsletter-button-sm {text-align: center; cursor: pointer; font-weight: 700; font-size: 14.5px; color: #fff; border: none; background-color: #00b140; padding: 20px; border-radius: 0px 3px 3px 0px; overflow: hidden; margin: 0 -20px -20px;}
+.FollowByEmail .follow-by-email-inner .follow-by-email-address {height: 40px!important; border: none; padding: 5px; width: 96%; margin-bottom: 5px; background: #EAE9E9;font-family:'Roboto', sans-serif;}
+.FollowByEmail .follow-by-email-inner .follow-by-email-submit { height: 40px!important; width: 100%; margin-left: 0; background: #f1ae28;font-size: 16px; font-weight:600; text-transform: uppercase; border-radius: 0;font-family:'Roboto', sans-serif;}
+form.subscribe{margin-top:-7px}
+.subscribe-email{border: none; margin: 0 0 10px; font-size: 14px; width: 30%; background-color: #fff; text-align: center; color: #999; padding: 0 20px;height:59px; border-radius: 3px 0px 0px 3px; font-family: ubuntu;}
+.subscribe-email:focus{outline:0}
+form.subscribe .placeholder{color:#cacaca}
+form.subscribe input:-ms-input-placeholder{color:#cacaca}
+form.subscribe input::-webkit-input-placeholder{color:#cacaca}
+form.subscribe input:-moz-placeholder{color:#fafafa}
+form.subscribe input::-moz-placeholder{color:#fafafa}
+.subscribe-button{font-weight: 700; font-size: 14.5px; color: #fff; border: none; background-color: #00b140; padding:0 20px; border-radius: 0px 3px 3px 0px; overflow: hidden;height: 59px;margin: 0 -20px -20px;}
+.subscribe-button:hover{background-color:#f1d640}
+.subscribe-button:focus{outline:0}
+
+.ts_heading{ float:left; width:100%; text-align:center; }
+.ts_heading h3{float: left; width: 100%; text-transform: uppercase; position: relative; padding-bottom: 5px; font-family: raleway; letter-spacing: 1px; font-size: 20px; color: #444;}
+.ts_heading h3:after{ content: ""; position: absolute; width:120px; top: 100%; left: 0px; right: 0px; margin: 0px auto; }
+.ts_heading p{float:left;width:100%;margin-top: 10px;font-family: ubuntu; color: #666; font-size: 15px;}
+.ts_heading h3:after {border-bottom: 5px solid #00B140;}
+
+.ts_heading h2{float: left;width: 100%;position: relative;font-family: raleway;letter-spacing: 1px;font-size:30px;color: #444;text-align: left;margin: 0;margin-bottom: 10px;}
+.ts_heading span:after{ content: ""; position: absolute; width:120px; top: 100%; left: 0px; margin: 0px auto; }
+.ts_heading span{float: left;width: 100%;margin-bottom: 20px;font-family: ubuntu;color: #666;font-size: 18px;position: relative;text-align: left;font-weight: 500;}
+.ts_heading span:after {border-bottom: 3px solid #00b140;margin-top:5px;}
+
+.ts_overlay { position: absolute; top: 0%; left: 0%; right: 0%; bottom: 0%; opacity: .9; background: #10114c; background: -moz-linear-gradient(45deg, #10114c 0%, #5c0e85 100%); background: -webkit-linear-gradient(45deg, #10114c 0%, #5c0e85 100%); background: linear-gradient(45deg, #10114c 0%, #5c0e85 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#10114c', endColorstr='#5c0e85', GradientType=1); z-index: -1; }
+.ts_newsletter_wrapper{ float: left; width: 100%; background-color: #272727; background-size: cover; background-attachment: fixed; position: relative; background-image: url(https://2.bp.blogspot.com/-07YSRig1cnY/V7HyTsVNKII/AAAAAAAACS8/7u9E899K-fMqJGYTWIfRF0-s99oPEqb2ACLcB/s1600/3.jpg);background-position: 0px -170.484px; text-align:center; z-index: 1;height:300px; }
+.ts_newsletter_wrapper h4{margin: 25px auto;width:60%; color: #fff; font-family: ubuntu; font-weight:500; font-size:20px; margin-top: 20px;}
+.ts_newsletter_wrapper h2{float: left; width: 100%; text-transform: uppercase; color: #fff; margin-top:40px; margin-bottom:15px; font-family:raleway; letter-spacing: 1px;font-size: 25px; font-weight: 900}
+.ts_newsletter_wrapper p{color: #fff; float: left; width: 100%; margin: 0; font-size: 12px;}
+.ts_newsletter_wrapper .ts_search_btn { padding: 0px 20px 0px 20px;}
+.fa-check {font-size:12px;}
+h2.ldemo{display:block;border-bottom:1px solid #d9e0e2;font-weight:400;text-align:center;padding:10px}
+h2.signup{background:#00aa9f;border-bottom:1px solid #008d84;font-weight:400;text-align:center;padding:10px;color:#fff;font-size:18px}
+.close{position: absolute; top: 10px; right: 15px; width: 30px; height: 30px; line-height: 30px; text-align: center; font-size: 13px; background: #00b140; border-radius: 100px; font-weight: 400;}
+.close:hover { text-decoration:none; }
+.close:hover { color:#555; }
+.subscribe3 {background:#f1ae28;padding:30px;color:#fff; margin-bottom: 15px;text-align:center;transition:all 0.4s ease-out;}
+
+.subtitle {font-size:20px; font-weight:800; font-family:'Ubuntu', sans-serif;}
+.subtitle p {font-size: 16px; background: #fff; color: #f1ae28!important; font-weight: 700; margin: 0; display: inline-block; padding: 8px; border-radius: 50px; font-family:'Ubuntu', sans-serif; padding-left: 20px; padding-right: 20px;}
+.subscribe3 {background:#00b140;padding:30px;color:#fff; text-align:center;transition:all 0.4s ease-out;}
+.subtitle {font-size:20px; font-weight:800; font-family:'Ubuntu', sans-serif;}
+.subtitle p {font-size: 16px; background: #fff; color: #f1ae28!important; font-weight: 700; margin: 0; display: inline-block; padding: 8px; border-radius: 50px; font-family:'Ubuntu', sans-serif; padding-left: 20px; padding-right: 20px;}
